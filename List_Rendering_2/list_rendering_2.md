@@ -56,7 +56,7 @@ variants: [
 ```
 2.Display the variant colors in a list below the details.
 
-Next: [Event Handling](https://github.com/kristandre/vue-workshop/blob/master/List_Rendering_2/list_rendering_2.md)
+Next: [Event Handling](https://github.com/kristandre/vue-workshop/blob/master/Event_Handling/event_handling_2.md)
 
 Previous: [List Rendering](https://github.com/kristandre/vue-workshop/blob/master/List_Rendering/list_rendering.md)
 

@@ -7,4 +7,4 @@
 
 Previous: [Event Handling](https://github.com/kristandre/vue-workshop/blob/master/Event_Handling/event_handling.md)
 
-Final Result: [Starting Code](https://jsfiddle.net/agv4dhzt/15/)
+Final Result: [Final Code](https://jsfiddle.net/agv4dhzt/15/)
